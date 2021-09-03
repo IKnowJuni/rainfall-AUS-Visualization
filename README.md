@@ -39,7 +39,7 @@ The targeted audience for our projected visualization is going to be all the peo
 4.	What was the maximum temperature recorded in this particular location?
 5.	Which location has the most rainfall?
 
-These are some of the questions that the audience might be curious about about our data that we will try to answer through visualization.
+These are some of the questions that the audience might be curious about our data that we will try to answer through visualization.
 
 ## Design:
 
